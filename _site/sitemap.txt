@@ -1,11 +1,12 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://maurovillena.github.io//archive.html
+http://maurovillena.github.io//atom.xml
+http://maurovillena.github.io//categories.html
+http://maurovillena.github.io//index.html
+http://maurovillena.github.io//pages.html
+http://maurovillena.github.io//rss.xml
+http://maurovillena.github.io//sitemap.txt
+http://maurovillena.github.io//tags.html
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://maurovillena.github.io//clases/2015/06/25/Post-de-prueba
+http://maurovillena.github.io//lessons/2011/12/29/jekyll-introduction

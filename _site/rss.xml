@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
-        <link>http://username.github.io</link>
-        <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 25 Jun 2015 14:15:47 -0400</lastBuildDate>
-        <pubDate>Thu, 25 Jun 2015 14:15:47 -0400</pubDate>
+        <title>Curso de Tipografía</title>
+        <description>Curso de Tipografía - Mauro Villena</description>
+        <link>http://maurovillena.github.io/</link>
+        <atom:link href="http://maurovillena.github.io//rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Thu, 25 Jun 2015 15:37:25 -0400</lastBuildDate>
+        <pubDate>Thu, 25 Jun 2015 15:37:25 -0400</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>Post De Prueba</title>
+                <description>
+&lt;p&gt;brrrr&lt;/p&gt;
+</description>
+                <link>http://maurovillena.github.io//clases/2015/06/25/Post-de-prueba</link>
+                <guid>http://maurovillena.github.io//clases/2015/06/25/Post-de-prueba</guid>
+                <pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
@@ -428,8 +438,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 &lt;p&gt;Please take a look at []()
 or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://maurovillena.github.io//lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://maurovillena.github.io//lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>Thu, 29 Dec 2011 00:00:00 -0300</pubDate>
         </item>
 
